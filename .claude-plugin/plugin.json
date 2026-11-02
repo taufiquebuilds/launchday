@@ -1,0 +1,14 @@
+{
+  "name": "launchday",
+  "description": "Take a code repository from \"it works on my machine\" to launch-ready on GitHub, then plan the launch.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Taufique Khan",
+    "url": "https://github.com/taufiquebuilds"
+  },
+  "homepage": "https://github.com/taufiquebuilds/launchday",
+  "repository": "https://github.com/taufiquebuilds/launchday",
+  "license": "MIT",
+  "keywords": ["launch", "open-source", "github", "readme", "show-hn", "marketing", "release"],
+  "skills": ["./"]
+}

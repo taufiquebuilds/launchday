@@ -1,0 +1,4 @@
+interface:
+  display_name: "launchday"
+  short_description: "Get any repo launch-ready and plan its launch"
+  default_prompt: "Use $launchday to get this repo launch-ready and write my launch plan."

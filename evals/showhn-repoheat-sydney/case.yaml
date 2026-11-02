@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: showhn-repoheat-sydney
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A Show HN title (starting "Show HN:", at most 80 characters) and a first comment whose claims
+  all match the README and source, plus a posting time on a Tuesday to Thursday US Eastern
+  morning converted correctly to Sydney time (for Tuesday 3 November 2026 at 8:30 AM EST that is
+  12:30 AM Wednesday 4 November in Sydney). It never asks readers to upvote.

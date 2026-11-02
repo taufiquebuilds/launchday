@@ -1,0 +1,11 @@
+name: Launch tip or new channel
+description: Share something that worked (or failed) in a real launch
+labels: [launch-tip]
+body:
+  - type: textarea
+    id: tip
+    attributes:
+      label: What did you learn?
+      description: A channel, a post format, a timing, a README change. Links to the launch help.
+    validations:
+      required: true

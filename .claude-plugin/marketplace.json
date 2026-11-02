@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "launchday",
+  "owner": {
+    "name": "taufiquebuilds",
+    "url": "https://github.com/taufiquebuilds"
+  },
+  "description": "Install launchday as a Claude plugin.",
+  "plugins": [
+    {
+      "name": "launchday",
+      "source": "./",
+      "description": "Take a code repository from \"it works on my machine\" to launch-ready on GitHub, then plan the launch.",
+      "license": "MIT",
+      "keywords": ["launch", "open-source", "github", "readme", "show-hn", "marketing", "release"]
+    }
+  ]
+}
